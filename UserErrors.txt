@@ -1,0 +1,2 @@
+User02,  Thompson,  Carol,  2020,  4,  15, *Error, key duplicate:[ 
+User05,  Error,  Numeric,  0,  0,  0, *Error, Year must be 1-9999:[ 
